@@ -14,6 +14,15 @@ Il est souvent utilisé pour les descriptions, les habitudes et les actions rép
 4. __Situations ou états d'esprit dans le passé__
     * Il faisait beau et les oiseaux chantaient.
 
+# Conjugaison de l'imparfait
+* Verbes du 1er groupe(Terminaison en -er) : Parler
+    * Je parlais/ Tu parlais/ Il parlait/ Nous parlions/ Vous parliez/ Ils parlaient
+* Verbes du 2ème groupe(Terminaison en -ir): Finir
+    * Je finissais/ Tu finissais/ Il finissait/ Nous finissions/ Vous finissiez/ Ils finissaient
+* Verbes du 3ème groupe(Terminaison en -re, -ir iréégulier, -oir, etc): Vendre
+    *  Je vendais/ Tu vendais/ Il vendait/ Nous vendions/ Vous vendiez/ ils vendaient
+    *  Je recevais/ Tu recevais/ Il recevait/ Nous recevions/ Vous receviez/ ils recevaient
+
 # Quelques astuces
 * __Repère temporels__ : Des expressions comme "quand j'était petit", "autrefois", "tous les jours", etc., indiquent souvent l'utilisation de l'imparfait.
 * __Comparer avec le passé composé__: 
